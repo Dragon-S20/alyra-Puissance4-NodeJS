@@ -1,0 +1,14 @@
+{
+  "name": "alyra-Puissance4-NodeJS",
+  "version": "1.0.0",
+  "author": "Dragon-S20 <promoetherjs.dragons20@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "./": "./src/"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "prettier": "^2.1.2"
+  }
+}
